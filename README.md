@@ -39,3 +39,10 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+### adicionar env
+
+quasar ext add @quasar/qenv
+
+QENV=development quasar dev , para o buid entender qual env está
+
